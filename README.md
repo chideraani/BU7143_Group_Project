@@ -6,8 +6,8 @@ This project was done using R.
 
 Team members include:
 
-Tanisha Ghosh 
-Lucas Olarreaga 
-Paurush Kumar 
-Nina Delbos 
-Chidera Ani 
+- Tanisha Ghosh 
+- Lucas Olarreaga 
+- Paurush Kumar 
+- Nina Delbos 
+- Chidera Ani 
